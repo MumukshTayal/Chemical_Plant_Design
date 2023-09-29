@@ -1,7 +1,7 @@
 # Chemical_Plant_Design
 Project report for designing plant for Acetaldehyde production by Ethanol Dehydrogenation.
 
-###About the Project
+### About the Project
 Ethanol dehydrogenation is a widely used process for the production of various chemicals such as acetaldehyde, ethyl acetate, butanol, and acetic acid. Among these chemicals, acetaldehyde is an important intermediate for the synthesis of many valuable chemicals such as peracetic acid, pyridine, pentaerythritol, and many more. The process of producing acetaldehyde from ethanol involves several reactions, including the dehydrogenation of ethanol to produce acetaldehyde, as well as the formation of various byproducts such as ethyl acetate, butanol, and acetic acid.
 
 ![Plant Design](https://github.com/MumukshTayal/Chemical_Plant_Design/blob/main/Plant_Design.jpg)
